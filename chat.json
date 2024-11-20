@@ -55,5 +55,13 @@
         "source": "base_assistant",
         "content": "The header component style has been successfully changed to a blue shade. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "a995b2b4-19a8-4fa7-a271-c5d274a2feb7",
+        "timestamp": "2024-11-20T10:10:33.542324Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Which component have i selected?",
+        "metadata": {}
     }
 ]
