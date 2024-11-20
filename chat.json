@@ -63,5 +63,13 @@
         "source": "web_client",
         "content": "Which component have i selected?",
         "metadata": {}
+    },
+    {
+        "id": "7240761e-b0b9-4d73-bae4-dc3b2e755b22",
+        "timestamp": "2024-11-20T10:11:32.305482Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Which component have i selected?",
+        "metadata": {}
     }
 ]
