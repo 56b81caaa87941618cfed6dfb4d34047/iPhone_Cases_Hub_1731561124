@@ -24,5 +24,13 @@
         "source": "base_assistant",
         "content": "The currently selected component is `Header1731561127`. How would you like to proceed?",
         "metadata": {}
+    },
+    {
+        "id": "4dc2653a-ff62-491a-988a-fe210284facf",
+        "timestamp": "2024-11-20T10:25:03.621270Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "How about now?",
+        "metadata": {}
     }
 ]
