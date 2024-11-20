@@ -16,5 +16,13 @@
         "metadata": {
             "component_id": "Header1731561127"
         }
+    },
+    {
+        "id": "585189a6-4b8f-4f50-bab8-b3e66ebb21aa",
+        "timestamp": "2024-11-20T10:24:53.077011Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The currently selected component is `Header1731561127`. How would you like to proceed?",
+        "metadata": {}
     }
 ]
