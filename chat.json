@@ -6,39 +6,5 @@
         "source": "base_assistant",
         "content": "Welcome to your new project! I can help you edit it however you want. What would you like to do?",
         "metadata": {}
-    },
-    {
-        "id": "94288bc4-dfbb-42f5-a5a7-38f7d20af6ba",
-        "timestamp": "2024-11-20T10:24:49.996926Z",
-        "role": "user",
-        "source": "web_client",
-        "content": "What component do I have selected?",
-        "metadata": {
-            "component_id": "Header1731561127"
-        }
-    },
-    {
-        "id": "585189a6-4b8f-4f50-bab8-b3e66ebb21aa",
-        "timestamp": "2024-11-20T10:24:53.077011Z",
-        "role": "assistant",
-        "source": "base_assistant",
-        "content": "The currently selected component is `Header1731561127`. How would you like to proceed?",
-        "metadata": {}
-    },
-    {
-        "id": "4dc2653a-ff62-491a-988a-fe210284facf",
-        "timestamp": "2024-11-20T10:25:03.621270Z",
-        "role": "user",
-        "source": "web_client",
-        "content": "How about now?",
-        "metadata": {}
-    },
-    {
-        "id": "b47fb040-202a-4143-b974-8305a3ce2b37",
-        "timestamp": "2024-11-20T10:25:05.654532Z",
-        "role": "assistant",
-        "source": "base_assistant",
-        "content": "You don't have any component currently selected in your interface. How would you like to proceed?",
-        "metadata": {}
     }
 ]
