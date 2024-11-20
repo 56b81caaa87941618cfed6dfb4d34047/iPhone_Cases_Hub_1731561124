@@ -32,5 +32,13 @@
         "source": "web_client",
         "content": "How about now?",
         "metadata": {}
+    },
+    {
+        "id": "b47fb040-202a-4143-b974-8305a3ce2b37",
+        "timestamp": "2024-11-20T10:25:05.654532Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "You don't have any component currently selected in your interface. How would you like to proceed?",
+        "metadata": {}
     }
 ]
