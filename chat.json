@@ -6,5 +6,13 @@
         "source": "base_assistant",
         "content": "Welcome to your new project! I can help you edit it however you want. What would you like to do?",
         "metadata": {}
+    },
+    {
+        "id": "6d77527f-6e72-4c97-b22f-c0d14de878f1",
+        "timestamp": "2024-11-22T10:14:50.880465Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "create a sc interaction frontend for 0x1F98431c8aD98523631AE4a59f267346ea31F984 in eth",
+        "metadata": {}
     }
 ]
